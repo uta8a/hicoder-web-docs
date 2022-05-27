@@ -4,7 +4,8 @@
   "description": "HiCoder web documents for public",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "n": "echo 1"
   },
   "author": "HiCoder",
   "license": "MIT",

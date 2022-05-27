@@ -1532,6 +1532,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"hicoder_web_docs@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "hicoder_web_docs@workspace:."
+  dependencies:
+    "@vuepress/plugin-container": next
+    vuepress: next
+  languageName: unknown
+  linkType: soft
+
 "http-cache-semantics@npm:^4.1.0":
   version: 4.1.0
   resolution: "http-cache-semantics@npm:4.1.0"
@@ -2354,15 +2363,6 @@ __metadata:
   checksum: c34dc78317aa0a153010061e5954225b3e18f4013feb9c0476f6878dc3485ac765c28b7849441e4a2ab69c337892bc66399fb7d4b239b94f4758adfdb1f99440
   languageName: node
   linkType: hard
-
-"root-workspace-0b6124@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "root-workspace-0b6124@workspace:."
-  dependencies:
-    "@vuepress/plugin-container": next
-    vuepress: next
-  languageName: unknown
-  linkType: soft
 
 "run-parallel@npm:^1.1.9":
   version: 1.2.0
