@@ -6,7 +6,7 @@
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
-  "author": "uta8a",
+  "author": "HiCoder",
   "license": "MIT",
   "packageManager": "yarn@3.2.1",
   "devDependencies": {
