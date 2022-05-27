@@ -1,7 +1,17 @@
 {
+  "name": "hicoder_web_docs",
+  "version": "1.0.0",
+  "description": "HiCoder web documents for public",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "uta8a",
+  "license": "MIT",
   "packageManager": "yarn@3.2.1",
   "devDependencies": {
     "@vuepress/plugin-container": "next",
     "vuepress": "next"
-  }
+  },
+  "private": true
 }
