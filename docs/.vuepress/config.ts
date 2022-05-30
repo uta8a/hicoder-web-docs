@@ -5,7 +5,10 @@ module.exports = {
     lang: 'ja',
     title: 'HiCoder web docs',
     description: '広島大学コンピュータサークルHiCoderの公開用web資料です。',
-    head: [['link', {rel: 'icon', href: '/images/hicoder.ico'}]],
+    contributors: true,
+    contributorsText: '編集者',
+    lastUpdated: true,
+    head: [['link', { rel: 'icon', href: '/images/hicoder.ico' }]],
     navbar: [
       // Navbar: 右上に表示される
       {
